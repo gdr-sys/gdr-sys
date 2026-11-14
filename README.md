@@ -1,120 +1,62 @@
-<h1 align="center">gdr-sys</h1>
+<h1 align="center">Ciao, sono Noemi</h1>
 
 <p align="center">
-  Appassionata di strumenti che rendono il gioco di ruolo (e la vita digitale) più fluidi. <br/>
-  I miei progetti nascono per necessità o per curiosità: <i>"si può fare in modo più semplice e automatico?"</i>
+  Faccio la DM e costruisco strumenti per il gioco di ruolo: nascono al mio tavolo, per necessità o per curiosità.<br/>
+  <i>I'm a Dungeon Master building tools for tabletop RPGs, born at my own table.</i>
 </p>
 
 <p align="center">
-  <i>Passionate about tools that make tabletop RPGs (and digital life) smoother. <br/>
-  My projects are born out of necessity or curiosity: "can this be done in a simpler, more automated way?"</i>
-</p>
-
-<p align="center">
-  <a href="https://gdr-sys-portfolio2026.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=a78bfa" alt="Portfolio"/>
-  </a>
-  <a href="mailto:noemi.marcolini@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=22d3ee" alt="Email"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=gdr-sys&style=for-the-badge&color=a78bfa&label=Profile+Views" alt="Profile Views"/>
+  <a href="https://pocketgmscreen.pages.dev/scopri/"><img src="https://img.shields.io/badge/Pocket_GM_Screen-1c1814?style=for-the-badge&logoColor=e3a46e" alt="Pocket GM Screen"/></a>
+  <a href="https://ko-fi.com/noemimarcolini"><img src="https://img.shields.io/badge/Offrimi_un_caff%C3%A8-1c1814?style=for-the-badge&logo=kofi&logoColor=e3a46e" alt="Ko-fi"/></a>
+  <a href="https://gdr-sys-portfolio2026.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1c1814?style=for-the-badge&logo=vercel&logoColor=e3a46e" alt="Portfolio"/></a>
 </p>
 
 ---
 
-<h3 align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/webpack.svg" width="18" height="18" />
-  &nbsp; Tech & Workflow
-</h3>
+## Pocket GM Screen
 
-<table align="center">
-  <tr>
-    <td><b>Web Stack</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=22d3ee"/>
-      <img src="https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=22d3ee"/>
-      <img src="https://img.shields.io/badge/Tailwind-1a1a2e?style=for-the-badge&logo=tailwindcss&logoColor=22d3ee"/>
-      <img src="https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=22d3ee"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Deploy</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Vercel-1a1a2e?style=for-the-badge&logo=vercel&logoColor=a78bfa"/>
-      <img src="https://img.shields.io/badge/GitHub_Pages-1a1a2e?style=for-the-badge&logo=github&logoColor=a78bfa"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Workflow</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/AI_Assisted-1a1a2e?style=for-the-badge&logo=anthropic&logoColor=a78bfa"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>i18n Support</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/IT-1a1a2e?style=for-the-badge&logoColor=22d3ee"/>
-      <img src="https://img.shields.io/badge/EN-1a1a2e?style=for-the-badge&logoColor=22d3ee"/>
-      <img src="https://img.shields.io/badge/ES-1a1a2e?style=for-the-badge&logoColor=a78bfa"/>
-      <img src="https://img.shields.io/badge/DE-1a1a2e?style=for-the-badge&logoColor=a78bfa"/>
-      <img src="https://img.shields.io/badge/FR-1a1a2e?style=for-the-badge&logoColor=a78bfa"/>
-    </td>
-  </tr>
-</table>
+**Tutta la campagna, in tasca.** Lo schermo del DM che ho creato perché dove giochiamo internet non c'è: D&D 5e (2014 e 2024) nel browser, anche offline, gratis e senza pubblicità.
 
 <p align="center">
-  <i>Le lingue supportate variano da progetto a progetto — dettagli nei singoli README.</i><br/>
-  <i>Supported languages vary by project — see individual READMEs for details.</i>
+  <a href="https://pocketgmscreen.pages.dev/?demo=1"><img src="brag.gif" width="760" alt="Pocket GM Screen in 20 secondi: dashboard, scontro e mappe generate"/></a>
+</p>
+
+- **Preparare**: wiki con PNG, luoghi, fazioni e quest collegati con @, segreti del DM, trame e Sessione Zero.
+- **Il mondo**: calendario con lune e meteo, Cartografo per regni, città e dungeon, esagoni da esplorare, Scrittoio per documenti e stemmi.
+- **Al tavolo**: scontro con iniziativa e PF, schermo del DM, Compendio SRD, generatori e musica.
+- **Con il gruppo**: vista per i giocatori e un altro DM nella stessa campagna, in tempo reale.
+
+<p align="center">
+  <a href="https://pocketgmscreen.pages.dev/?demo=1"><b>Prova la campagna di esempio</b></a> ·
+  <a href="https://pocketgmscreen.pages.dev/">Apri l'app</a> ·
+  <a href="https://pocketgmscreen.pages.dev/scopri/">Tutte le funzioni</a> ·
+  <a href="https://github.com/gdr-sys/dm-toolkit">Codice</a>
 </p>
 
 ---
 
-<h3 align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/target.svg" width="18" height="18" />
-  &nbsp; Progetti in evidenza / Featured Projects
-</h3>
+## Altri strumenti per il gioco di ruolo
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/gdr-sys/Image-Optimizer-Pro">
-        <img src="https://github-stats-extended.vercel.app/api/pin?username=gdr-sys&repo=Image-Optimizer-Pro&theme=dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/gdr-sys/Scheda-personaggio-dnd-interattiva">
-        <img src="https://github-stats-extended.vercel.app/api/pin?username=gdr-sys&repo=Scheda-personaggio-dnd-interattiva&theme=dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/gdr-sys/dm-toolkit">
-        <img src="https://github-stats-extended.vercel.app/api/pin?username=gdr-sys&repo=dm-toolkit&theme=dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/gdr-sys/Compendio-incantesimi-homebrew">
-        <img src="https://github-stats-extended.vercel.app/api/pin?username=gdr-sys&repo=Compendio-incantesimi-homebrew&theme=dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/gdr-sys/Subscription-Manager">
-        <img src="https://github-stats-extended.vercel.app/api/pin?username=gdr-sys&repo=Subscription-Manager&theme=dark" />
-      </a>
-    </td>
-  </tr>
-</table>
+| | |
+|---|---|
+| [**Compendio Incantesimi Homebrew**](https://gdr-sys.github.io/Compendio-incantesimi-homebrew/) | Incantesimi SRD 2014 e 2024 e homebrew: mazzi per personaggio, slot, concentrazione e carte da stampare. |
+| [**Scheda personaggio D&D**](https://gdr-sys.github.io/Scheda-personaggio-dnd-interattiva/) | Scheda interattiva con combattimento, incantesimi e inventario, solo browser. |
+| [**Generatore di tesori**](https://dnd-loot-generator-sepia.vercel.app) | Tesori casuali con le tabelle del DMG 2014 e 2024. |
+| [**The Hungry Dragon**](https://gdr-sys.github.io/The-Hungry-Dragon/) | Menu di taverne e locande pronti per il tavolo. |
+| [**NPC Forge**](https://gdr-sys.github.io/NPC-Forge/) | PNG istantanei per fantasy, fantascienza, horror e moderno. |
+| [**Brancalonia, generatore tuttofare**](https://gdr-sys.github.io/Brancalonia---Generatore-Tuttofare/) | Per lo spaghetti fantasy più cialtrone d'Italia. |
+| [**Daggerheart Dice & Tracker**](https://daggerheart-dice-and-tracker.vercel.app) | Dadi e tracciamento per Daggerheart. |
+| [**7th Sea**](https://gdr-sys.github.io/7th-sea-dice-roller/) | Dadi con d10 che esplodono e [scheda interattiva](https://gdr-sys.github.io/Scheda-7th-sea-interattiva/). |
+
+Tutte le mie webapp per il gioco di ruolo sono raccolte su **[GDR Toolbox](https://gdr-toolbox.noemi-marcolini.workers.dev/)**.
+
+## Altre app
+
+[Image Optimizer Pro](https://gdr-sys.github.io/Image-Optimizer-Pro/) (ottimizza migliaia di immagini nel browser, senza caricarle) · [Cinememory](https://gdr-sys.github.io/Cinememory/) (oggi nella storia del cinema) · [Subscription Manager](https://subscription-manager-plum.vercel.app) · [FlashMind](https://flash-mind-khaki.vercel.app)
 
 ---
 
-<h3 align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/chartdotjs.svg" width="18" height="18" />
-  &nbsp; Stats
-</h3>
-
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=gdr-sys&langs_count=4&hide_values=true&theme=neon" />
+  Se i miei strumenti ti sono utili al tavolo, puoi <a href="https://ko-fi.com/noemimarcolini">offrirmi un caffè su Ko-fi</a>: aiuta a pagare dominio e server.<br/>
+  <i>If my tools help at your table, you can <a href="https://ko-fi.com/noemimarcolini">buy me a coffee</a>.</i>
 </p>
