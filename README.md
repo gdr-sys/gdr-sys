@@ -27,6 +27,7 @@
 - **Con il gruppo**: vista per i giocatori e un altro DM nella stessa campagna, in tempo reale.
 
 <p align="center">
+  <a href="https://youtu.be/uuWEpfDJNf4">Guarda il video con l'audio</a> ·
   <a href="https://pocketgmscreen.pages.dev/?demo=1"><b>Prova la campagna di esempio</b></a> ·
   <a href="https://pocketgmscreen.pages.dev/">Apri l'app</a> ·
   <a href="https://pocketgmscreen.pages.dev/scopri/">Tutte le funzioni</a> ·
